@@ -1,0 +1,5 @@
+numpy
+pandas
+fastf1
+grafanalib
+black
